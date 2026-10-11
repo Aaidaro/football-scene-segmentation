@@ -1,0 +1,7 @@
+case_name,upsampling,use_skip,batch_norm,loss,best_val_miou,best_epoch,checkpoint
+bilinear_noskip_nobn_cross_entropy,bilinear,FALSE,FALSE,cross_entropy,0.342344537,30,models/saved_models/bilinear_noskip_nobn_cross_entropy_best.pt
+bilinear_skip_bn_cross_entropy,bilinear,True,True,cross_entropy,0.6395707123805005,30,models/saved_models/bilinear_skip_bn_cross_entropy_best.pt
+bilinear_skip_bn_focal,bilinear,True,True,focal,0.6817532167717005,29,models/saved_models/bilinear_skip_bn_focal_best.pt
+bilinear_skip_nobn_cross_entropy,bilinear,TRUE,FALSE,cross_entropy,0.492349312,30,models/saved_models/bilinear_skip_nobn_cross_entropy_best.pt
+transpose_noskip_nobn_cross_entropy,transpose,FALSE,FALSE,cross_entropy,0.337432063,29,models/saved_models/transpose_noskip_nobn_cross_entropy_best.pt
+transpose_skip_nobn_cross_entropy,transpose,TRUE,FALSE,cross_entropy,0.49025601,30,models/saved_models/transpose_skip_nobn_cross_entropy_best.pt

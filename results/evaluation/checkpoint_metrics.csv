@@ -1,0 +1,7 @@
+checkpoint,miou,pixel_accuracy,loss
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/bilinear_skip_nobn_cross_entropy_best.pt,0.4923493115000527,0.9265388488769531,0.228367355465889
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/bilinear_noskip_nobn_cross_entropy_best.pt,0.3423488610926961,0.8457534790039063,0.46194148659706114
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/transpose_skip_nobn_cross_entropy_best.pt,0.4902632068616325,0.9195709228515625,0.2553639382123947
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/transpose_noskip_nobn_cross_entropy_best.pt,0.337431383728102,0.8457305908203125,0.44689977169036865
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/bilinear_skip_bn_cross_entropy_best.pt,0.6395798782877784,0.9531166076660156,0.17072148621082306
+D:/Aida/Master_AI_UT/Deep Learning/HomeWorks/home_work_3/homework_code/models/saved_models/bilinear_skip_bn_focal_best.pt,0.681724472728942,0.9532920837402343,0.3126858055591583
